@@ -1,6 +1,7 @@
 bin
 junit
 out
+bin
 .DS_Store
 *.swp
 *.log
